@@ -11,7 +11,7 @@
 ---
 
 ### Course Title: Categorical Data Analysis  
-### Course Code: STAT-4104
+### Course Code: STAT 4104
 
 ---
 
